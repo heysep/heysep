@@ -12,7 +12,7 @@
 
 ## 🏆 GitHub 통계  
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=heysep&show_icons=true&theme=dark)  
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=heysep&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crypto-dev&layout=compact&theme=dark)
 
 ## 📌 미래목표
 - ⚡나중에 앱 및 웹을 만들어 사회적인 불편함을 해결하는 것이 저의 꿈입니다.
