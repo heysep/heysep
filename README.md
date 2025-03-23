@@ -7,7 +7,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/yo_oy0274/)
 
 ### ✨ 최근 프로젝트
-🎵 **[음악 플레이어 웹 앱](https://github.com/heysep/Music-web)**  
+🎵 **[Marvel Universe Explorer](https://github.com/heysep/Marvel-Movie)**  
 🍫 **[코코아톡 클론](https://github.com/heysep/kokoa-clone-2020)**  
 📖 **[밈 사전](https://github.com/heysep/internet-meme-museum)** 
 
