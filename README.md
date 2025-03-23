@@ -15,21 +15,12 @@
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=heysep&show_icons=true&theme=dark)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heysep&layout=compact&theme=dark)
 
-## 📌 미래목표
+## 📌 사용 기술 스택
+- **Frontend**: HTML, CSS, JavaScript, React
+- **Tools**: Git, GitHub, VS Code, Figma
+- **현재 학습 중**: Node.js, Firebase
+
+## 🎯 미래목표
 - ⚡앱 및 웹을 만들어 사회적인 불편함을 해결하는 것이 저의 꿈입니다.
 - 🎯풀스택 개발자가 되고 싶습니다.
 - 😁항상 새로운 도전을 멈추지 않겠습니다.
-<!--
-**heysep/heysep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
