@@ -16,29 +16,17 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heysep&layout=compact&theme=dark)
 
+
 ## 🧩 기술 스택 (Tech Stack)
 
 ### 🎨 Frontend  
 <p align="left">
-  <!-- HTML -->
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/>
-
-  <!-- CSS -->
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/>
-
-  <!-- JavaScript -->
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black"/>
-
-  <!-- TypeScript -->
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"/>
-
-  <!-- React -->
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=React&logoColor=61DAFB"/>
-
-  <!-- Next.js -->
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white"/>
-
-  <!-- TailwindCSS -->
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=TailwindCSS&logoColor=white"/>
 </p>
 
@@ -58,8 +46,8 @@
   <!-- Gemini -->
   <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=Google&logoColor=white"/>
 
-  <!-- Cursor -->
-  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=Visual Studio Code&logoColor=white"/>
+  <!-- Cursor (대체 아이콘) -->
+  <img src="https://img.shields.io/badge/Cursor-1E90FF?style=for-the-badge&logo=sublimetext&logoColor=white"/>
 
   <!-- Claude -->
   <img src="https://img.shields.io/badge/Claude-000000?style=for-the-badge&logo=Anthropic&logoColor=white"/>
@@ -71,4 +59,6 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=Supabase&logoColor=black"/>
 </p>
+
