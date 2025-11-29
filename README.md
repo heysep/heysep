@@ -12,7 +12,8 @@
 📖 **[밈 사전](https://github.com/heysep/internet-meme-museum)** 
 
 ## 🏆 GitHub 통계  
-![GitHub Snake](https://raw.githubusercontent.com/heysep/heysep/output/github-contribution-grid-snake.svg)
+![GitHub Snake](https://raw.githubusercontent.com/heysep/heysep/output/snake.svg)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heysep&layout=compact&theme=dark)
 
 ## 📌 사용 기술 스택
