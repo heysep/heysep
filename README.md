@@ -47,24 +47,6 @@
   </tr>
 </table>
 
-## 기술 스택 <sub>결속밴드 편성</sub>
-
-**리드 기타 — App** <sub>봇치 파트, 제일 오래 붙잡고 있는 것</sub><br />
-<img src="https://skillicons.dev/icons?i=flutter,dart,swift,kotlin" alt="Flutter · Dart · Swift · Kotlin" />
-
-**베이스 — Web** <sub>료 파트</sub><br />
-<img src="https://skillicons.dev/icons?i=ts,react,nextjs,nestjs,tailwind,html,css" alt="TypeScript · React · Next.js · NestJS · Tailwind CSS · HTML · CSS" />
-
-**드럼 — Backend · Infra** <sub>니지카 파트, 뒤에서 박자를 잡는 것</sub><br />
-<img src="https://skillicons.dev/icons?i=nodejs,go,py,postgres,docker,nginx,aws" alt="Node.js · Go · Python · PostgreSQL · Docker · nginx · AWS" />
-
-**보컬 — Tools** <sub>키타 파트</sub><br />
-<img src="https://skillicons.dev/icons?i=figma,git,github" alt="Figma · Git · GitHub" />
-<img src="https://img.shields.io/badge/Claude-000000?style=for-the-badge&logo=Anthropic&logoColor=white" alt="Claude" height="48" />
-<img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge" alt="ChatGPT" height="48" />
-<img src="https://img.shields.io/badge/Cursor-1E90FF?style=for-the-badge&logo=sublimetext&logoColor=white" alt="Cursor" height="48" />
-<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=Google&logoColor=white" alt="Gemini" height="48" />
-
 <div align="center">
   <br />
   <strong>「ぼっち・ざ・ろっく！」</strong>
@@ -75,3 +57,21 @@
   <br /><br />
   <img src="assets/kessoku-band.webp" width="650" alt="결속밴드 — 봇치 · 니지카 · 료 · 키타" />
 </div>
+
+## 기술 스택
+
+**App**<br />
+<img src="https://skillicons.dev/icons?i=flutter,dart,swift,kotlin" alt="Flutter · Dart · Swift · Kotlin" />
+
+**Web**<br />
+<img src="https://skillicons.dev/icons?i=ts,react,nextjs,nestjs,tailwind,html,css" alt="TypeScript · React · Next.js · NestJS · Tailwind CSS · HTML · CSS" />
+
+**Backend · Infra**<br />
+<img src="https://skillicons.dev/icons?i=nodejs,go,py,postgres,docker,nginx,aws" alt="Node.js · Go · Python · PostgreSQL · Docker · nginx · AWS" />
+
+**Tools**<br />
+<img src="https://skillicons.dev/icons?i=figma,git,github" alt="Figma · Git · GitHub" />
+<img src="https://img.shields.io/badge/Claude-000000?style=for-the-badge&logo=Anthropic&logoColor=white" alt="Claude" height="48" />
+<img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge" alt="ChatGPT" height="48" />
+<img src="https://img.shields.io/badge/Cursor-1E90FF?style=for-the-badge&logo=sublimetext&logoColor=white" alt="Cursor" height="48" />
+<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=Google&logoColor=white" alt="Gemini" height="48" />
