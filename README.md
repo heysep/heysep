@@ -17,6 +17,17 @@
   </tr>
 </table>
 
+<div align="center">
+  <br />
+  <strong>「ぼっち・ざ・ろっく！」</strong>
+  <br /><br />
+  <strong>「結束バンド」</strong>
+  <br /><br />
+  <img src="assets/kessoku-rings.svg" width="80" alt="결속밴드 네 색" />
+  <br /><br />
+  <img src="assets/kessoku-band.webp" width="650" alt="결속밴드 — 봇치 · 니지카 · 료 · 키타" />
+</div>
+
 ### 안녕하세요, 임요셉입니다
 
 제조 AI 회사 디알밸류에서 일하고, 혼자서는 앱을 만들어 스토어에 냅니다.
@@ -47,6 +58,7 @@
   </tr>
 </table>
 
+<<<<<<< Updated upstream
 <div align="center">
   <br />
   <strong>「ぼっち・ざ・ろっく！」</strong>
@@ -70,6 +82,20 @@
 <img src="https://skillicons.dev/icons?i=nodejs,go,py,postgres,docker,nginx,aws" alt="Node.js · Go · Python · PostgreSQL · Docker · nginx · AWS" />
 
 **Tools**<br />
+=======
+## 기술 스택 <sub>결속밴드 편성</sub>
+
+**리드 기타 — App** <sub>봇치 파트, 제일 오래 붙잡고 있는 것</sub><br />
+<img src="https://skillicons.dev/icons?i=flutter,dart,swift,kotlin" alt="Flutter · Dart · Swift · Kotlin" />
+
+**베이스 — Web** <sub>료 파트</sub><br />
+<img src="https://skillicons.dev/icons?i=ts,react,nextjs,nestjs,tailwind,html,css" alt="TypeScript · React · Next.js · NestJS · Tailwind CSS · HTML · CSS" />
+
+**드럼 — Backend · Infra** <sub>니지카 파트, 뒤에서 박자를 잡는 것</sub><br />
+<img src="https://skillicons.dev/icons?i=nodejs,go,py,postgres,docker,nginx,aws" alt="Node.js · Go · Python · PostgreSQL · Docker · nginx · AWS" />
+
+**보컬 — Tools** <sub>키타 파트</sub><br />
+>>>>>>> Stashed changes
 <img src="https://skillicons.dev/icons?i=figma,git,github" alt="Figma · Git · GitHub" />
 <img src="https://img.shields.io/badge/Claude-000000?style=for-the-badge&logo=Anthropic&logoColor=white" alt="Claude" height="48" />
 <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge" alt="ChatGPT" height="48" />
