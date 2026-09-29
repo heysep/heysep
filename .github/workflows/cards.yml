@@ -6,6 +6,9 @@ on:
   schedule:
     - cron: "0 15 * * *" # 매일 한국 시간 자정
   workflow_dispatch:
+  push:
+    paths:
+      - .github/workflows/cards.yml # 이 파일을 고치면 바로 한 번 만든다(카드 커밋은 이 경로를 안 건드려 되풀이되지 않는다)
 
 jobs:
   cards:
