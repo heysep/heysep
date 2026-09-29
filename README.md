@@ -1,8 +1,14 @@
-👋 안녕하세요, 한양대학교(ERICA) 스마트ICT융합공학부 재학중인 임요셉입니다.
+### 안녕하세요, 임요셉입니다 👋
 
-🚀 혼자 기획 · 디자인 · 개발해서 스토어에 내는 인디 개발자입니다.
+혼자 기획 · 디자인 · 개발해서 스토어에 내는 **인디 개발자**입니다. 한양대학교 ERICA 스마트ICT융합공학부에 다닙니다.
 
-### 🔗 연락처 & SNS
+- 📱 **App Store에 앱 10개**를 냈습니다 — 일기 · 달력 · 위젯 · 교통 · 게임
+- 🌱 대표작은 **GitGarden** — 깃허브 잔디를 홈 화면 위젯으로
+- 🧩 앱은 Flutter로 만들고, 위젯은 iOS WidgetKit · Android RemoteViews로 직접 그립니다
+- 🟦 토스 안에서 도는 미니앱(앱인토스)과 웹 서비스도 만듭니다
+
+[![App Store](https://img.shields.io/badge/App_Store-앱_10개-0D96F6?style=for-the-badge&logo=appstore&logoColor=white)](https://apps.apple.com/kr/developer/id6792509203)
+[![Blog](https://img.shields.io/badge/heysep.github.io-181717?style=for-the-badge&logo=githubpages&logoColor=white)](https://heysep.github.io)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/yo_oy0274/)
 
 ---
@@ -31,54 +37,58 @@
 
 ---
 
-## 🏆 GitHub 통계
+## 📱 출시한 앱
+
+<table>
+  <tr>
+    <td align="center" width="20%"><a href="https://apps.apple.com/kr/app/id6792509021"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9f/4a/bf/9f4abf1f-3a84-7ec3-b7db-6c94bc882d4e/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg" width="64" alt="GitGarden" /><br /><b>GitGarden</b></a><br /><sub>깃허브 잔디 위젯</sub></td>
+    <td align="center" width="20%"><a href="https://apps.apple.com/kr/app/id6800722213"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e8/64/9c/e8649caf-7f27-ffa7-99d7-1873118ba454/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg" width="64" alt="오늘의 말씀일기" /><br /><b>오늘의 말씀일기</b></a><br /><sub>감정에 맞는 말씀·찬양</sub></td>
+    <td align="center" width="20%"><a href="https://apps.apple.com/kr/app/id6807523619"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/46/ef/b6/46efb6f0-1ed5-f0c5-fd91-dd34082b0bbf/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg" width="64" alt="교대노트" /><br /><b>교대노트</b></a><br /><sub>교대근무 달력 · 나이트 수면</sub></td>
+    <td align="center" width="20%"><a href="https://apps.apple.com/kr/app/id6801996052"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/09/f9/44/09f94472-7e47-edfb-7418-6162f296c154/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg" width="64" alt="밑줄" /><br /><b>밑줄</b></a><br /><sub>하루 한 문장 일기</sub></td>
+    <td align="center" width="20%"><a href="https://apps.apple.com/kr/app/id6801996296"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/03/f2/7f03f2e1-5375-67a0-0b33-6da016f51be6/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg" width="64" alt="한 컷" /><br /><b>한 컷</b></a><br /><sub>하루 한 장면 일기</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://apps.apple.com/kr/app/id6807607144"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d2/c7/07/d2c7075c-2a92-6e5f-60e7-1049071d9312/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg" width="64" alt="오프라인 지하철" /><br /><b>오프라인 지하철</b></a><br /><sub>첫차·막차 시간표</sub></td>
+    <td align="center"><a href="https://apps.apple.com/kr/app/id6810893575"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/19/81/b6/1981b6bb-78f8-61fc-c0c5-9106c6c4cc0f/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.jpg" width="64" alt="잎갈피" /><br /><b>잎갈피</b></a><br /><sub>풀 이름 찾기 · 압화 잠금화면</sub></td>
+    <td align="center"><a href="https://apps.apple.com/kr/app/id6811151963"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/20/06/e5/2006e502-5f61-104c-f5fd-61004dd73543/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.jpg" width="64" alt="경제지표위젯" /><br /><b>경제지표위젯</b></a><br /><sub>내 포트 기준 발표 일정</sub></td>
+    <td align="center"><a href="https://apps.apple.com/kr/app/id6808442754"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/55/f1/b9/55f1b93f-3501-52e6-b1e4-ffc921810f0f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg" width="64" alt="Keyaway" /><br /><b>Keyaway</b></a><br /><sub>스크린타임 잠금 키</sub></td>
+    <td align="center"><a href="https://apps.apple.com/kr/app/id6792796260"><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/47/aa/26/47aa2631-6e92-41ff-e21a-f6d648758176/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.jpg" width="64" alt="오목코치" /><br /><b>오목코치</b></a><br /><sub>오목 게임</sub></td>
+  </tr>
+</table>
+
+---
+
+## 🧩 기술 스택
+
+**App**<br />
+<img src="https://skillicons.dev/icons?i=flutter,dart,swift,kotlin" alt="Flutter · Dart · Swift · Kotlin" />
+
+**Web**<br />
+<img src="https://skillicons.dev/icons?i=ts,react,nextjs,nestjs,tailwind,html,css" alt="TypeScript · React · Next.js · NestJS · Tailwind CSS · HTML · CSS" />
+
+**Backend · Infra**<br />
+<img src="https://skillicons.dev/icons?i=nodejs,go,py,postgres,docker,nginx,aws" alt="Node.js · Go · Python · PostgreSQL · Docker · nginx · AWS" />
+
+**Tools**<br />
+<img src="https://skillicons.dev/icons?i=figma,git,github" alt="Figma · Git · GitHub" />
+<img src="https://img.shields.io/badge/Claude-000000?style=for-the-badge&logo=Anthropic&logoColor=white" alt="Claude" height="48" />
+<img src="https://img.shields.io/badge/Cursor-1E90FF?style=for-the-badge&logo=sublimetext&logoColor=white" alt="Cursor" height="48" />
+<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=Google&logoColor=white" alt="Gemini" height="48" />
+
+**지금 배우는 것** — Firebase · Supabase
+
+---
+
+## 🏆 활동
+
 ![GitHub Snake](https://raw.githubusercontent.com/heysep/heysep/output/snake.svg)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heysep&layout=compact&theme=dark)
+<details>
+  <summary>커밋 연속 기록</summary>
+  <br />
+  <img src="https://streak-stats.demolab.com?user=heysep&theme=dark&hide_border=true" alt="GitHub 연속 커밋 기록" />
+</details>
 
-## 🧩 기술 스택 (Tech Stack)
+## 📦 그 외
 
-### 📱 App
-<p align="left">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=Dart&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white"/>
-</p>
-
-### 🎨 Frontend
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=React&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=TailwindCSS&logoColor=white"/>
-</p>
-
----
-
-### 🛠 Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=Google&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cursor-1E90FF?style=for-the-badge&logo=sublimetext&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Claude-000000?style=for-the-badge&logo=Anthropic&logoColor=white"/>
-</p>
-
----
-
-### 📚 현재 학습 중
-<p align="left">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=Supabase&logoColor=black"/>
-</p>
-
-### 📦 그 외 프로젝트
-🎵 **[Marvel Universe Explorer](https://github.com/heysep/Marvel-Movie)**
-🍫 **[코코아톡 클론](https://github.com/heysep/kokoa-clone-2020)**
-📖 **[밈 사전](https://github.com/heysep/internet-meme-museum)**
+- 🍫 [코코아톡 클론](https://github.com/heysep/kokoa-clone-2020)
