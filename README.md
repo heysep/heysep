@@ -1,12 +1,10 @@
 <table width="100%" align="center">
   <tr>
-    <td align="center">
+    <td align="center" colspan="2">
       <a href="https://heysep.github.io"><img src="https://img.shields.io/badge/Website-heysep.github.io-ff6496?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=e60046" alt="웹사이트" /></a>
-      <a href="https://www.instagram.com/yo_oy0274/"><img src="https://img.shields.io/badge/Instagram-yo__oy0274-ff6496?style=for-the-badge&logo=instagram&logoColor=white&labelColor=e60046" alt="Instagram" /></a>
-    </td>
-    <td align="center">
-      <a href="https://apps.apple.com/kr/developer/id6792509203"><img src="https://img.shields.io/badge/App_Store-앱_10개-006ebe?style=for-the-badge&logo=appstore&logoColor=white&labelColor=fabe00" alt="App Store 개발자 페이지" /></a>
       <a href="https://drvalue.co.kr"><img src="https://img.shields.io/badge/Work-디알밸류-006ebe?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=fabe00" alt="디알밸류" /></a>
+      <a href="https://apps.apple.com/kr/developer/id6792509203"><img src="https://img.shields.io/badge/App_Store-앱_10개-006ebe?style=for-the-badge&logo=appstore&logoColor=white&labelColor=fabe00" alt="App Store 개발자 페이지" /></a>
+      <a href="https://www.instagram.com/yo_oy0274/"><img src="https://img.shields.io/badge/Instagram-yo__oy0274-ff6496?style=for-the-badge&logo=instagram&logoColor=white&labelColor=e60046" alt="Instagram" /></a>
     </td>
   </tr>
   <tr>
