@@ -80,6 +80,7 @@
 **보컬 — Tools** <sub>키타 파트</sub><br />
 <img src="https://skillicons.dev/icons?i=figma,git,github" alt="Figma · Git · GitHub" />
 <img src="https://img.shields.io/badge/Claude-000000?style=for-the-badge&logo=Anthropic&logoColor=white" alt="Claude" height="48" />
+<img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge" alt="ChatGPT" height="48" />
 <img src="https://img.shields.io/badge/Cursor-1E90FF?style=for-the-badge&logo=sublimetext&logoColor=white" alt="Cursor" height="48" />
 <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=Google&logoColor=white" alt="Gemini" height="48" />
 
