@@ -1,0 +1,40 @@
+name: Update README cards
+
+# 프로필 README 의 통계 카드(profile/*.svg)를 매일 새로 만든다.
+# 비공개 저장소까지 세려면 저장소 Secrets 에 GH_STATS_TOKEN(PAT · repo, read:user)을 넣는다. 없으면 공개 저장소만 센다.
+on:
+  schedule:
+    - cron: "0 15 * * *" # 매일 한국 시간 자정
+  workflow_dispatch:
+  push:
+    paths:
+      - .github/workflows/cards.yml # 이 파일을 고치면 바로 한 번 만든다(카드 커밋은 이 경로를 안 건드려 되풀이되지 않는다)
+
+jobs:
+  cards:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v6
+      - name: GitHub 활동 카드
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=heysep&show_icons=true&count_private=true&hide_border=true&bg_color=00000000&title_color=ff6496&text_color=ff6496&icon_color=ff6496&ring_color=ff6496&custom_title=GitHub%20%ED%99%9C%EB%8F%99
+          path: profile/stats.svg
+          token: ${{ secrets.GH_STATS_TOKEN || secrets.GITHUB_TOKEN }}
+      - name: 많이 쓰는 언어 카드
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=heysep&layout=compact&langs_count=8&card_width=320&hide_border=true&bg_color=00000000&title_color=ff6496&text_color=ff6496&custom_title=%EB%A7%8E%EC%9D%B4%20%EC%93%B0%EB%8A%94%20%EC%96%B8%EC%96%B4
+          path: profile/top-langs.svg
+          token: ${{ secrets.GH_STATS_TOKEN || secrets.GITHUB_TOKEN }}
+      - name: 카드 커밋
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/*.svg
+          git commit -m "Update README cards" || exit 0
+          git push
