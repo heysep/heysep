@@ -1,9 +1,15 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F4A6C0,35:FFD84D,65:4A7FCB,100:E5484D&height=190&section=header&text=heysep&fontSize=64&fontColor=ffffff&fontAlignY=36&desc=%E3%81%BC%E3%81%A3%E3%81%A1%E3%83%BB%E3%81%96%E3%83%BB%E3%82%8D%E3%81%A3%E3%81%8F%EF%BC%81%20%C2%B7%20%ED%98%BC%EC%9E%90%20%EB%A7%8C%EB%93%9C%EB%8A%94%20%EC%9D%B8%EB%94%94%20%EA%B0%9C%EB%B0%9C%EC%9E%90&descSize=18&descAlignY=58" width="100%" alt="heysep — ぼっち・ざ・ろっく！ · 혼자 만드는 인디 개발자" />
+  <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&weight=700&size=22&duration=2600&pause=900&color=F4A6C0&center=true&vCenter=true&width=560&lines=%EA%B5%AC%EC%84%9D%EC%97%90%EC%84%9C%20%ED%98%BC%EC%9E%90%20%EC%BD%94%EB%93%9C%20%EC%B9%98%EB%8A%94%20%EC%A4%91;App%20Store%EC%97%90%20%EC%95%B1%2010%EA%B0%9C;%EA%B9%83%ED%97%88%EB%B8%8C%20%EC%9E%94%EB%94%94%EB%A5%BC%20%ED%99%88%20%ED%99%94%EB%A9%B4%EC%9C%BC%EB%A1%9C%20%E2%80%94%20GitGarden;%EA%B2%B0%EC%86%8D%EB%B0%B4%EB%93%9C%EC%B2%98%EB%9F%BC%2C%20%ED%98%BC%EC%9E%90%EC%84%9C%EB%8F%84%20%ED%95%9C%20%EA%B3%A1%EC%94%A9" alt="타이핑 문구" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&weight=700&size=22&duration=2600&pause=900&color=F4A6C0&center=true&vCenter=true&width=560&lines=%EA%B5%AC%EC%84%9D%EC%97%90%EC%84%9C%20%ED%98%BC%EC%9E%90%20%EC%BD%94%EB%93%9C%20%EC%B9%98%EB%8A%94%20%EC%A4%91;App%20Store%EC%97%90%20%EC%95%B1%2010%EA%B0%9C;%EA%B9%83%ED%97%88%EB%B8%8C%20%EC%9E%94%EB%94%94%EB%A5%BC%20%ED%99%88%20%ED%99%94%EB%A9%B4%EC%9C%BC%EB%A1%9C%20%E2%80%94%20GitGarden;%EA%B2%B0%EC%86%8D%EB%B0%B4%EB%93%9C%EC%B2%98%EB%9F%BC%2C%20%ED%98%BC%EC%9E%90%EC%84%9C%EB%8F%84%20%ED%95%9C%20%EA%B3%A1%EC%94%A9" alt="타이핑 문구" />
+  <b>「ぼっち・ざ・ろっく！」</b><br />
+  <sub>結束バンド</sub><br /><br />
+  <img src="assets/kessoku-dots.svg" width="92" alt="결속밴드 네 색" />
+</p>
+
+<p align="center">
+  <img src="assets/kessoku-band.webp" width="620" alt="결속밴드 — 봇치 · 니지카 · 키타 · 료" />
 </p>
 
 ### 안녕하세요, 임요셉입니다
@@ -96,6 +102,3 @@
   <img src="https://streak-stats.demolab.com?user=heysep&theme=dark&hide_border=true" alt="GitHub 연속 커밋 기록" />
 </details>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F4A6C0,35:FFD84D,65:4A7FCB,100:E5484D&height=110&section=footer" width="100%" alt="" />
-</p>
