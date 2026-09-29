@@ -1,55 +1,34 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&weight=700&size=22&duration=2600&pause=900&color=F4A6C0&center=true&vCenter=true&width=560&lines=%EA%B5%AC%EC%84%9D%EC%97%90%EC%84%9C%20%ED%98%BC%EC%9E%90%20%EC%BD%94%EB%93%9C%20%EC%B9%98%EB%8A%94%20%EC%A4%91;App%20Store%EC%97%90%20%EC%95%B1%2010%EA%B0%9C;%EA%B9%83%ED%97%88%EB%B8%8C%20%EC%9E%94%EB%94%94%EB%A5%BC%20%ED%99%88%20%ED%99%94%EB%A9%B4%EC%9C%BC%EB%A1%9C%20%E2%80%94%20GitGarden;%EA%B2%B0%EC%86%8D%EB%B0%B4%EB%93%9C%EC%B2%98%EB%9F%BC%2C%20%ED%98%BC%EC%9E%90%EC%84%9C%EB%8F%84%20%ED%95%9C%20%EA%B3%A1%EC%94%A9" alt="타이핑 문구" />
-</p>
-
-<p align="center">
-  <b>「ぼっち・ざ・ろっく！」</b><br />
-  <sub>結束バンド</sub><br /><br />
-  <img src="assets/kessoku-dots.svg" width="92" alt="결속밴드 네 색" />
-</p>
-
-<p align="center">
-  <img src="assets/kessoku-band.webp" width="620" alt="결속밴드 — 봇치 · 니지카 · 키타 · 료" />
-</p>
+<table width="100%" align="center">
+  <tr>
+    <td align="center">
+      <a href="https://heysep.github.io"><img src="https://img.shields.io/badge/Website-heysep.github.io-ff6496?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=e60046" alt="웹사이트" /></a>
+      <a href="https://www.instagram.com/yo_oy0274/"><img src="https://img.shields.io/badge/Instagram-yo__oy0274-ff6496?style=for-the-badge&logo=instagram&logoColor=white&labelColor=e60046" alt="Instagram" /></a>
+    </td>
+    <td align="center">
+      <a href="https://apps.apple.com/kr/developer/id6792509203"><img src="https://img.shields.io/badge/App_Store-앱_10개-006ebe?style=for-the-badge&logo=appstore&logoColor=white&labelColor=fabe00" alt="App Store 개발자 페이지" /></a>
+      <a href="https://drvalue.co.kr"><img src="https://img.shields.io/badge/Work-디알밸류-006ebe?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=fabe00" alt="디알밸류" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="profile/stats.svg" alt="GitHub 활동" />
+    </td>
+    <td align="center" width="50%">
+      <img src="profile/top-langs.svg" alt="많이 쓰는 언어" />
+    </td>
+  </tr>
+</table>
 
 ### 안녕하세요, 임요셉입니다
 
-혼자 기획 · 디자인 · 개발해서 스토어에 내는 **인디 개발자**입니다. 한양대학교 ERICA 스마트ICT융합공학부에 다닙니다.
+제조 AI 회사 디알밸류에서 일하고, 혼자서는 앱을 만들어 스토어에 냅니다.
 
-- **App Store에 앱 10개**를 냈습니다 — 일기 · 달력 · 위젯 · 교통 · 게임
-- 대표작은 **GitGarden** — 깃허브 잔디를 홈 화면 위젯으로
-- 앱은 Flutter로 만들고, 위젯은 iOS WidgetKit · Android RemoteViews로 직접 그립니다
-- 토스 안에서 도는 미니앱(앱인토스)과 웹 서비스도 만듭니다
+- **디알밸류** · 2024.06 ~ — 제조 AI · MES
+- **인디 앱** — App Store에 10개. 일기 · 달력 · 위젯 · 교통 · 게임
+- **한양대학교 ERICA** — 스마트ICT융합공학부
 
-[![App Store](https://img.shields.io/badge/App_Store-앱_10개-0D96F6?style=for-the-badge&logo=appstore&logoColor=white)](https://apps.apple.com/kr/developer/id6792509203)
-[![Blog](https://img.shields.io/badge/heysep.github.io-181717?style=for-the-badge&logo=githubpages&logoColor=white)](https://heysep.github.io)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/yo_oy0274/)
-
----
-
-## GitGarden — 깃허브 잔디, 홈 화면 위젯으로
-
-<a href="https://apps.apple.com/app/id6792509021">
-  <img src="assets/gitgarden-classic_medium.png" width="420" alt="GitGarden Classic 테마 위젯" />
-</a>
-
-매일 깃허브에 들어가서 확인하던 잔디를, 앱 열지 않고 홈 화면에서 바로 봅니다.
-**username만 입력하면 끝** — 로그인도, 토큰도, 계정 생성도 없습니다.
-
-- 소형 · 중형 · 대형 위젯 지원, 백그라운드 자동 갱신
-- 위젯 테마 8종 (기본 테마 무료, 나머지는 1회 구매로 평생 소장)
-- 계정 · 광고 · 추적 없음. 데이터는 기기 안에만 저장됩니다
-
-<p align="left">
-  <img src="assets/gitgarden-neon_medium.png" width="300" alt="Neon City 테마" />
-  <img src="assets/gitgarden-terminal_medium.png" width="300" alt="Terminal 테마" />
-</p>
-
-[![App Store](https://img.shields.io/badge/App_Store-다운로드-0D96F6?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/app/id6792509021)
-
-> Flutter + iOS WidgetKit + Android RemoteViews. 위젯 테마는 전부 `CustomPainter`로 직접 그렸습니다.
-
----
+앱은 주로 Flutter로 만들고, 홈 화면 위젯은 iOS WidgetKit · Android RemoteViews로 직접 그립니다.
+토스 안에서 도는 미니앱(앱인토스)과 웹 서비스도 만듭니다.
 
 ## 출시한 앱
 
@@ -70,8 +49,6 @@
   </tr>
 </table>
 
----
-
 ## 기술 스택 <sub>결속밴드 편성</sub>
 
 **리드 기타 — App** <sub>봇치 파트, 제일 오래 붙잡고 있는 것</sub><br />
@@ -90,15 +67,13 @@
 <img src="https://img.shields.io/badge/Cursor-1E90FF?style=for-the-badge&logo=sublimetext&logoColor=white" alt="Cursor" height="48" />
 <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=Google&logoColor=white" alt="Gemini" height="48" />
 
----
-
-## 연습 기록
-
-![GitHub Snake](https://raw.githubusercontent.com/heysep/heysep/output/snake.svg)
-
-<details>
-  <summary>커밋 연속 기록</summary>
+<div align="center">
   <br />
-  <img src="https://streak-stats.demolab.com?user=heysep&theme=dark&hide_border=true" alt="GitHub 연속 커밋 기록" />
-</details>
-
+  <strong>「ぼっち・ざ・ろっく！」</strong>
+  <br /><br />
+  <strong>「結束バンド」</strong>
+  <br /><br />
+  <img src="assets/kessoku-rings.svg" width="80" alt="결속밴드 네 색" />
+  <br /><br />
+  <img src="assets/kessoku-band.webp" width="650" alt="결속밴드 — 봇치 · 니지카 · 료 · 키타" />
+</div>
